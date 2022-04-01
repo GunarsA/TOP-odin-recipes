@@ -1,0 +1,1 @@
+This project lists 3 Latvian cookings recipes and shows how to make them.
